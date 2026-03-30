@@ -1,0 +1,62 @@
+NissECU Non-Commercial Source License
+Version 1.0 — 2024
+
+Copyright (c) 2024 MichShav (https://github.com/MichShav)
+
+Portions of this software originate from the J2EOverlay project
+(https://github.com/MichShav/J2EOverlay), also by MichShav.
+
+
+PERMISSIONS
+-----------
+Subject to the conditions below, you are granted a worldwide, royalty-free,
+non-exclusive license to:
+
+  1. Use this software for personal, educational, or research purposes.
+  2. Copy, fork, and modify the source code.
+  3. Distribute unmodified or modified copies of the source code, provided
+     that this license file is included in full and all copyright notices
+     are preserved.
+
+
+CONDITIONS
+-----------
+The following conditions apply to any exercise of the permissions above:
+
+  a. Attribution. Any distribution of this software, modified or unmodified,
+     must clearly credit the original author (MichShav) and include a link to
+     the original repository (https://github.com/MichShav/NissECU).
+
+  b. Share-Alike. Modified versions of this software must be distributed
+     under this same license, without additional restrictions.
+
+  c. Non-Commercial Use Only. You may not use this software, in whole or in
+     part, for any Commercial Purpose. A "Commercial Purpose" means any
+     activity intended to produce revenue, compensation, or financial gain,
+     including but not limited to:
+
+       - Selling or sublicensing this software or any derivative work;
+       - Bundling this software into a commercial product or service;
+       - Providing tuning services, ECU flashing services, or similar
+         automotive services using this software as a tool;
+       - Incorporating this software into any SaaS platform, subscription
+         product, or paid application.
+
+     Commercial use requires a separate written license agreement from the
+     copyright holder. To inquire, open an issue at
+     https://github.com/MichShav/NissECU.
+
+
+DISCLAIMER
+-----------
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
+
+FLASHING DISCLAIMER: Modifying ECU firmware carries risk of permanent hardware
+damage. The authors accept no responsibility for damaged ECUs, voided
+warranties, or any other consequences arising from the use of this software.
